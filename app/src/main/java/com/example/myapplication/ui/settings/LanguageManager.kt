@@ -24,7 +24,13 @@ object LanguageManager {
         "dark_mode" to "Dark Mode",
 
         "cross_border_commuter" to "CrossBorder Commuter",
-        "common_border" to "Common Border Checkpoints"
+        "common_border" to "Common Border Checkpoints",
+        "current_weather" to "Current Weather",
+        "shenzhen_weather" to "Shenzhen",
+        "hong_kong_weather" to "Hong Kong",
+        "temperature" to "Temperature",
+        "wind_speed" to "Wind speed",
+        "weather_loading" to "Loading weather..."
     )
 
     private val zh = mapOf(
@@ -38,6 +44,12 @@ object LanguageManager {
         "dark_mode" to "深色模式",
 
         "cross_border_commuter" to "跨境通勤助手",
-        "common_border" to "常用口岸"
+        "common_border" to "常用口岸",
+        "current_weather" to "当前天气",
+        "shenzhen_weather" to "深圳",
+        "hong_kong_weather" to "香港",
+        "temperature" to "气温",
+        "wind_speed" to "风速",
+        "weather_loading" to "正在加载天气..."
     )
 }
